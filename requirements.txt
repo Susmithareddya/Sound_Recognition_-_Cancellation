@@ -1,0 +1,21 @@
+# torch and torchaudio
+torch
+torchaudio
+
+# deepfilternet with train extras
+deepfilternet[train]
+
+# deepfilternet
+deepfilternet
+
+# pydub
+pydub
+
+# librosa and soundfile
+librosa
+soundfile
+
+# soundata (assuming it's required)
+soundata
+
+
