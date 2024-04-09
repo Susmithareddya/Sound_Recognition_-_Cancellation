@@ -15,3 +15,6 @@ This repository is dedicated to the project developed during the seminar 'Progra
 The notebooks have been created in Google Colab. 
 
 Feel free to explore and contribute to this project!
+
+We utilized the DeepFilterNet library from [(https://github.com/Rikorose/DeepFilterNet)], which is licensed under the MIT License.
+
