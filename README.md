@@ -18,3 +18,5 @@ Feel free to explore and contribute to this project!
 
 We utilized the DeepFilterNet library from [(https://github.com/Rikorose/DeepFilterNet)], which is licensed under the MIT License.
 
+## Acknowledgment
+This project was collaboratively developed with [Sushmita Singh](https://github.com/SushmitaSingh96). Original repository can be found [here](https://github.com/SushmitaSingh96/Sound_Recognition_-_Cancellation).
